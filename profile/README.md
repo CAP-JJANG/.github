@@ -28,7 +28,7 @@ Deep Learning을 이용한 손글씨 음향신호 인식 기술
   <img width="100%" alt="image" src="https://github.com/Capjjang23/.github/assets/92065911/3acf80b7-fa8d-4b8d-aadf-1066ba7d8a7f">
 
 <br><br>
-## Service Architecture
+## 🔗 Service Architecture
 <div align="center">
   <img width="80%" alt="image" src="https://github.com/CAP-JJANG/.github/assets/92065911/a35cc186-b2b5-44d6-94c0-2f4292c63e16">
 </div>
