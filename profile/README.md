@@ -20,17 +20,16 @@ Deep Learning을 이용한 손글씨 음향신호 인식 기술
 3. 접근성 개선: 음성이나 동작에 어려움이 있는 사용자들에게 정보 접근성을 개선해줍니다. 시각 장애인이나 신체적 제약이 있는 사람들도 손글씨로 표현된 정보를 소리로 변환하여 인식할 수 있어, 다양한 사용자들이 정보에 자유롭게 접근할 수 있습니다.
 
 <br><br>
-## :eyes: 실행화면
+## :eyes: Run
 * **Watch** :watch:
   <img width="100%" alt="image" src="https://github.com/Capjjang23/.github/assets/92065911/08fb70df-859d-4dca-ad84-6ca1ef4a6520">
   <br>
 * **Phone** :iphone:
   <img width="100%" alt="image" src="https://github.com/Capjjang23/.github/assets/92065911/3acf80b7-fa8d-4b8d-aadf-1066ba7d8a7f">
 
-
-  
-
-
+<br><br>
+## Service Architecture
+![서비스아키텍쳐](https://github.com/CAP-JJANG/.github/assets/92065911/a35cc186-b2b5-44d6-94c0-2f4292c63e16)
 
 <br><br>
 ## 🔨 Skill
