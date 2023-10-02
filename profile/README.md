@@ -110,6 +110,7 @@ When using a small wearable device in everyday life, the small keyboard panel so
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/ResNet-000000?style=flat&logoColor=white"/>
 <img src="https://img.shields.io/badge/Librosa-7F2B7B?style=flat"/>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
 <br>
 **IDE** 
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
