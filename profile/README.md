@@ -34,6 +34,19 @@ Deep Learning을 이용한 손글씨 음향신호 인식 기술
 </div>
 
 <br><br>
+## 🤝 Commit Rule
+
+| 커밋구분 | 설명 |
+| --- | --- |
+| FEAT | (Feature) 개선 또는 기능 추가 |
+| BUG | (Bug Fix) 버그 수정 |
+| DOC | (Documentation) 문서 작업 |
+| TST | (Test) 테스트 추가/수정 |
+| BLD | (Build) 빌드 프로세스 관련 수정(yml) |
+| PERF | (Performance) 속도 개선 |
+| CLN | (Cleanup) 코드 정리/리팩토링 |
+
+<br><br>
 ## 🔨 Skill
 **Language**
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
