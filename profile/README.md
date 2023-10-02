@@ -50,14 +50,14 @@ When using a small wearable device in everyday life, the small keyboard panel so
 
 <br><br>
 ## ✨ Expectation Effectiveness
-[ENG]
+**[ENG]**
 1. Various applications: It can be used in a variety of fields, including improved user interface based on letter input, handwriting recognition system, and handwriting-based automatic translation and recognition technology.
 2. Convenient input method: Instead of a keyboard or touch screen, you can convert it into an acoustic signal and input it by handwriting.
 3. Improve accessibility: Improve access to information for users with voice or motion difficulties. Blind people or people with physical constraints can also recognize handwritten information by converting it into sound, allowing various users to freely access the information.
 
 <br>
 
-[KOR]
+**[KOR]**
 1. 다양한 응용 분야: 글자 입력 기반의 사용자 인터페이스 개선, 필기인식 시스템, 손글씨 기반의 자동번역 및 인식기술 등 다양한 분야에서 활용될 수 있습니다.
 2. 편리한 입력 방식 제공: 키보드나 터치스크린 대신 손으로 직접 글자를 쓰는 동작을 통해 음향신호로 변환하여 입력할 수 있습니다.
 3. 접근성 개선: 음성이나 동작에 어려움이 있는 사용자들에게 정보 접근성을 개선해줍니다. 시각 장애인이나 신체적 제약이 있는 사람들도 손글씨로 표현된 정보를 소리로 변환하여 인식할 수 있어, 다양한 사용자들이 정보에 자유롭게 접근할 수 있습니다.
