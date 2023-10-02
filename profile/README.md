@@ -36,7 +36,7 @@ Deep Learning을 이용한 손글씨 음향신호 인식 기술
 <br><br>
 ## 🤝 Commit Rule
 
-| 커밋구분 | 설명 |
+| 커밋 구분 | 설명 |
 | --- | --- |
 | FEAT | (Feature) 개선 또는 기능 추가 |
 | BUG | (Bug Fix) 버그 수정 |
