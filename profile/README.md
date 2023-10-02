@@ -97,6 +97,10 @@ When using a small wearable device in everyday life, the small keyboard panel so
 | PERF | (Performance) 속도 개선 |
 | CLN | (Cleanup) 코드 정리/리팩토링 |
 
+- `커밋 구분/~한다`는 명령어로 시작하여 한 눈에 어떤 작업을 했는지 알기 쉽게 적는다.
+- 예시  
+  `FEAT/Create~`, `FEAT/Add~`, `BUG/Fix~`, `DOC/Delete~`
+
 <br><br>
 ## 🔨 Skill
 **Language**
