@@ -9,17 +9,17 @@
 <br><br>
 
 ## :fire: Title
-[ENG]  
+**[ENG]**  
 CSD-Model(Capjjang Spectrogram Dection-Model / Character recognition model through acoustic signal detection)
 
 <br>
 
-[KOR]  
+**[KOR]**  
 CSD-Model(Capjjang Spectrogram Dection-Model / 음향 신호 감지를 통한 문자 인식 모델)
 
 <br><br>
 ## :raised_hands: Introduction
-[ENG]  
+**[ENG]**   
 Hello, I'm Capjjang, participating in the 2023 Open SW Developer Contest.
 
 When using a small wearable device in everyday life, the small keyboard panel sometimes makes the input uncomfortable. To address this inconvenience, the team wants to make the table a single panel. Instead of small screens, we have developed a Capjang Spectrogram Detection-Model (CSD-Model/Character Recognition Model through Sound Signal Detection) to enable the device to recognize the handwriting through the sound of writing on a wide table. 
@@ -34,7 +34,7 @@ When using a small wearable device in everyday life, the small keyboard panel so
 
 <br>
 
-[KOR]  
+**[KOR]**  
 안녕하세요. 2023 공개 SW 개발자 대회에 참가한 '캡짱'입니다.
 
 일상 속에서 소형 웨어러블 기기 사용시, 작은 키보드 패널로 인해 입력에 불편함을 느낄 때가 있습니다. 본 팀은 이러한 불편함을 해소하기 위해 테이블을 하나의 패널로 만들고자 합니다. 작은 화면 대신, 넓은 테이블에서 글씨 쓰는 음향을 통해 기기에서 그 글씨를 인식할 수 있도록 CSD-Model(Capjjang Spectrogram Detection-Model/음향 신호 감지를 통한 문자 인식 모델)을 개발했습니다. 
