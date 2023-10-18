@@ -73,7 +73,7 @@ When using a small wearable device in everyday life, the small keyboard panel so
 <br><br>
 ## 🧬 Model Architecture
 <div align="center">
-  <img height="800" alt="image" src="https://github.com/CAP-JJANG/.github/assets/92065911/7fcd5810-2541-4a52-a0aa-a758c61e8fc8">
+  <img width="60%" alt="image" src="https://github.com/CAP-JJANG/.github/assets/92065911/7fcd5810-2541-4a52-a0aa-a758c61e8fc8">
 </div>
 
 
