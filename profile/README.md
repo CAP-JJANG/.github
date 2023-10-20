@@ -10,12 +10,12 @@
 
 ## :fire: Title
 **[ENG]**  
-CSD-Model(Capjjang Spectrogram Dection-Model / Character recognition model through acoustic signal detection)
+Handwritten Acoustic Signal Recognition Technology Using Deep Learning (CSD-Model)
 
 <br>
 
 **[KOR]**  
-CSD-Model(Capjjang Spectrogram Dection-Model / 음향 신호 감지를 통한 문자 인식 모델)
+Deep Learning을 이용한 손글씨 음향 신호 인식 기술 (CSD-Model)
 
 <br><br>
 ## :raised_hands: Introduction
