@@ -68,6 +68,8 @@ When using a small wearable device in everyday life, the small keyboard panel so
 ### ✔️ MakeDataset
 Details in [MakeDataset Repository](https://github.com/CAP-JJANG/MakeDataset)  
 
+<br>
+
 ### ✔️ CSD-Model
 **[ENG]**
 1. Set up the GPU usage environment in PyTorch.
@@ -79,8 +81,6 @@ Details in [MakeDataset Repository](https://github.com/CAP-JJANG/MakeDataset)
 7. Save the model weight if you have the highest accuracy per fold.
 8. Save the learning and test results to a file.
 
-<br>
-
 **[KOR]**
 1. PyTorch에서 GPU 사용 환경을 설정합니다.
 2. 입력 이미지에 대한 데이터 전처리 및 정규화를 정의하는 변환을 구성합니다.
@@ -91,11 +91,17 @@ Details in [MakeDataset Repository](https://github.com/CAP-JJANG/MakeDataset)
 7. 폴드별 최고 정확도를 가진 경우 모델 가중치를 저장합니다.
 8. 학습 및 테스트 결과를 파일에 저장합니다.
 
+<br>
+
 ### ✔️ CSD-Server
-Details in [CSD-Server Repository](https://github.com/CAP-JJANG/CSD-Server)  
+Details in [CSD-Server Repository](https://github.com/CAP-JJANG/CSD-Server) 
+
+<br>
 
 ### ✔️ WriteNow
 Details in [WriteNow Repository](https://github.com/CAP-JJANG/WriteNow)  
+
+<br>
 
 ### ✔️ RightNow
 Details in [RightNow Repository](https://github.com/CAP-JJANG/RightNow)  
@@ -103,7 +109,7 @@ Details in [RightNow Repository](https://github.com/CAP-JJANG/RightNow)
 
 <br><br>
 ## 🦾 주요 기술
-### MakeDataset
+### ✔️ MakeDataset
 **Dataset**  
 * PyCharm IDE
 * Python: 3.9.13
@@ -111,9 +117,11 @@ Details in [RightNow Repository](https://github.com/CAP-JJANG/RightNow)
 * Matplotlib: 3.7.2
 * Numpy: 1.25.2
 * Pillow: 10.0.1
-* Pydub: 0.25.1  
+* Pydub: 0.25.1
+
+<br>
   
-### CSD-Model
+### ✔️ CSD-Model
 **Model - CNN**
 * PyCharm IDE
 * Python 3.9.13
@@ -121,7 +129,9 @@ Details in [RightNow Repository](https://github.com/CAP-JJANG/RightNow)
 * Torch 1.13.1
 * Torchvision 0.14.1
 
-### CSD-Server
+<br>
+
+### ✔️ CSD-Server
 **Server - Django**
 * PyCharm: IDE
 * Python: 3.9.13
@@ -135,7 +145,9 @@ Details in [RightNow Repository](https://github.com/CAP-JJANG/RightNow)
 * Torch: 1.13.1
 * Torchvision: 0.14.1
 
-### RightNow
+<br>
+
+### ✔️ RightNow
 **Mobile - Android**
 * Android Studio: Giraffe | 2022.3.1
 * Gradle plugin: 8.1.1
@@ -144,8 +156,10 @@ Details in [RightNow Repository](https://github.com/CAP-JJANG/RightNow)
 * Target SDK: 33
 * Navigation : 2.7.3
 * Retrofit: 2.9.0
+  
+<br>
 
-### WriteNow
+### ✔️ WriteNow
 **Mobile - Android**
 * Android Studio: Giraffe | 2022.3.1
 * Gradle plugin: 8.1.1
