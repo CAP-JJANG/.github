@@ -8,7 +8,7 @@
 </div>
 <br><br>
 
-## :fire: Title
+## :fire: 제목
 **[ENG]**  
 Handwritten Acoustic Signal Recognition Technology Using Deep Learning (CSD-Model)
 
@@ -18,7 +18,7 @@ Handwritten Acoustic Signal Recognition Technology Using Deep Learning (CSD-Mode
 Deep Learning을 이용한 손글씨 음향 신호 인식 기술 (CSD-Model)
 
 <br><br>
-## :raised_hands: Introduction
+## :raised_hands: 소개
 **[ENG]**   
 Hello, This is Capjjang, participating in the 2023 Open SW Developer Contest.
 
@@ -49,7 +49,7 @@ When using a small wearable device in everyday life, the small keyboard panel so
 
 
 <br><br>
-## ✨ Expectation Effectiveness
+## ✨ 기대 효과
 **[ENG]**
 1. Various applications: It can be used in a variety of fields, including improved user interface based on letter input, handwriting recognition system, and handwriting-based automatic translation and recognition technology.
 2. Convenient input method: Instead of a keyboard or touch screen, you can convert it into an acoustic signal and input it by handwriting.
@@ -62,47 +62,13 @@ When using a small wearable device in everyday life, the small keyboard panel so
 2. 편리한 입력 방식 제공: 키보드나 터치스크린 대신 손으로 직접 글자를 쓰는 동작을 통해 음향신호로 변환하여 입력할 수 있습니다.
 3. 접근성 개선: 음성이나 동작에 어려움이 있는 사용자들에게 정보 접근성을 개선해줍니다. 시각 장애인이나 신체적 제약이 있는 사람들도 손글씨로 표현된 정보를 소리로 변환하여 인식할 수 있어, 다양한 사용자들이 정보에 자유롭게 접근할 수 있습니다.
 
-<br><br>
-## :eyes: Running Screen
-* **Watch** :watch:
-  <img width="100%" alt="image" src="https://github.com/Capjjang23/.github/assets/92065911/08fb70df-859d-4dca-ad84-6ca1ef4a6520">
-  <br>
-* **Phone** :iphone:
-  <img width="100%" alt="image" src="https://github.com/Capjjang23/.github/assets/92065911/3acf80b7-fa8d-4b8d-aadf-1066ba7d8a7f">
 
 <br><br>
-## 🧬 Model Architecture
-<div align="center">
-  <img width="60%" alt="image" src="https://github.com/CAP-JJANG/.github/assets/92065911/7fcd5810-2541-4a52-a0aa-a758c61e8fc8">
-</div>
-
-<br><br>
-## 🔗 Service Architecture
-<div align="center">
-  <img width="80%" alt="image" src="https://github.com/CAP-JJANG/.github/assets/92065911/1b391640-4450-4db0-a662-e403e101600a">
-</div>
-
+## 💪 주요 기능
 
 
 <br><br>
-## 🤝 Commit Rule
-
-| 커밋 구분 | 설명 |
-| --- | --- |
-| FEAT | (Feature) 개선 또는 기능 추가 |
-| BUG | (Bug Fix) 버그 수정 |
-| DOC | (Documentation) 문서 작업 |
-| TST | (Test) 테스트 추가/수정 |
-| BLD | (Build) 빌드 프로세스 관련 수정(yml) |
-| PERF | (Performance) 속도 개선 |
-| CLN | (Cleanup) 코드 정리/리팩토링 |
-
-- `커밋 구분/~한다`는 명령어로 시작하여 한 눈에 어떤 작업을 했는지 알기 쉽게 적는다.
-- 예시  
-  `FEAT/Create~`, `FEAT/Add~`, `BUG/Fix~`, `DOC/Delete~`
-
-<br><br>
-## 🔨 Skill
+## 🦾 주요 기술
 **Language**
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
@@ -120,9 +86,46 @@ When using a small wearable device in everyday life, the small keyboard panel so
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white"/>
 
+<br><br>
+## 🧬 모델 아키텍처
+<div align="center">
+  <img width="60%" alt="image" src="https://github.com/CAP-JJANG/.github/assets/92065911/7fcd5810-2541-4a52-a0aa-a758c61e8fc8">
+</div>
 
 <br><br>
-## 👻 Member
+## 🔗 서비스 아키텍처
+<div align="center">
+  <img width="80%" alt="image" src="https://github.com/CAP-JJANG/.github/assets/92065911/1b391640-4450-4db0-a662-e403e101600a">
+</div>
+
+<br><br>
+## 👀 실행 화면
+* **Watch** :watch:
+  <img width="100%" alt="image" src="https://github.com/Capjjang23/.github/assets/92065911/08fb70df-859d-4dca-ad84-6ca1ef4a6520">
+  <br>
+* **Phone** :iphone:
+  <img width="100%" alt="image" src="https://github.com/Capjjang23/.github/assets/92065911/3acf80b7-fa8d-4b8d-aadf-1066ba7d8a7f">
+
+<br><br>
+## 🤝 커밋 룰
+
+| 커밋 구분 | 설명 |
+| --- | --- |
+| FEAT | (Feature) 개선 또는 기능 추가 |
+| BUG | (Bug Fix) 버그 수정 |
+| DOC | (Documentation) 문서 작업 |
+| TST | (Test) 테스트 추가/수정 |
+| BLD | (Build) 빌드 프로세스 관련 수정(yml) |
+| PERF | (Performance) 속도 개선 |
+| CLN | (Cleanup) 코드 정리/리팩토링 |
+
+- `커밋 구분/~한다`는 명령어로 시작하여 한 눈에 어떤 작업을 했는지 알기 쉽게 적는다.
+- 예시  
+  `FEAT/Create~`, `FEAT/Add~`, `BUG/Fix~`, `DOC/Delete~`
+
+
+<br><br>
+## 👻 팀원
 <table>
   <tr> 
     <td><a href="https://github.com/Ga-Long"><img src="https://avatars.githubusercontent.com/u/100428958?v=4" style="width:150%; height:150%;"></a></td>
@@ -137,3 +140,11 @@ When using a small wearable device in everyday life, the small keyboard panel so
     <td align='center'><strong>석미혜</strong></td> 
   </tr>
 </table>
+
+<br><br>
+## 🤖 라이센스
+* MakeDataset
+* CSD-Model
+* CSD-Server
+* RightNow
+* WriteNow
