@@ -65,10 +65,10 @@ When using a small wearable device in everyday life, the small keyboard panel so
 
 <br><br>
 ## 💪 주요 기능
-### MakeDataset
+### ☑️ MakeDataset
 Details in [MakeDataset Repository](https://github.com/CAP-JJANG/MakeDataset)  
 
-### CSD-Model
+### ☑️ CSD-Model
 **[ENG]**
 1. Set up the GPU usage environment in PyTorch.
 2. Configure transformations that define data preprocessing and normalization for input images.
@@ -91,18 +91,20 @@ Details in [MakeDataset Repository](https://github.com/CAP-JJANG/MakeDataset)
 7. 폴드별 최고 정확도를 가진 경우 모델 가중치를 저장합니다.
 8. 학습 및 테스트 결과를 파일에 저장합니다.
 
-### CSD-Server
+### ☑️ CSD-Server
 Details in [CSD-Server Repository](https://github.com/CAP-JJANG/CSD-Server)  
 
-### WriteNow
+### ☑️ WriteNow
 Details in [WriteNow Repository](https://github.com/CAP-JJANG/WriteNow)  
 
-### RightNow
+### ☑️ RightNow
 Details in [RightNow Repository](https://github.com/CAP-JJANG/RightNow)  
 
 
 <br><br>
 ## 🦾 주요 기술
+
+
 **Language**
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
