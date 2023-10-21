@@ -65,10 +65,10 @@ When using a small wearable device in everyday life, the small keyboard panel so
 
 <br><br>
 ## 💪 주요 기능
-### ☑️ MakeDataset
+### ✔️ MakeDataset
 Details in [MakeDataset Repository](https://github.com/CAP-JJANG/MakeDataset)  
 
-### ☑️ CSD-Model
+### ✔️ CSD-Model
 **[ENG]**
 1. Set up the GPU usage environment in PyTorch.
 2. Configure transformations that define data preprocessing and normalization for input images.
@@ -91,36 +91,59 @@ Details in [MakeDataset Repository](https://github.com/CAP-JJANG/MakeDataset)
 7. 폴드별 최고 정확도를 가진 경우 모델 가중치를 저장합니다.
 8. 학습 및 테스트 결과를 파일에 저장합니다.
 
-### ☑️ CSD-Server
+### ✔️ CSD-Server
 Details in [CSD-Server Repository](https://github.com/CAP-JJANG/CSD-Server)  
 
-### ☑️ WriteNow
+### ✔️ WriteNow
 Details in [WriteNow Repository](https://github.com/CAP-JJANG/WriteNow)  
 
-### ☑️ RightNow
+### ✔️ RightNow
 Details in [RightNow Repository](https://github.com/CAP-JJANG/RightNow)  
 
 
 <br><br>
 ## 🦾 주요 기술
+### CSD-Model
+**Model - CNN**
+* PyCharm IDE
+* Python 3.9.13
+* Scikit_learn 1.3.1
+* Torch 1.13.1
+* Torchvision 0.14.1
 
+### CSD-Server
+**Server - Django**
+* PyCharm: IDE
+* Python: 3.9.13
+* Django: 4.2.5
+* Djangorestframework: 3.14.0
+* Librosa: 0.10.1
+* Matplotlib: 3.7.2
+* Numpy: 1.25.2
+* Pillow: 10.0.1
+* Pydub: 0.25.1
+* Torch: 1.13.1
+* Torchvision: 0.14.1
 
-**Language**
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
-<br>
-**Framework**
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-<br>
-**Main Tech**
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/ResNet-000000?style=flat&logoColor=white"/>
-<img src="https://img.shields.io/badge/Librosa-7F2B7B?style=flat"/>
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-<br>
-**IDE** 
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white"/>
+### RightNow
+**Mobile - Android**
+* Android Studio: Giraffe | 2022.3.1
+* Gradle plugin: 8.1.1
+* JDK: jbr-17
+* Min SDK: 24
+* Target SDK: 33
+* Navigation : 2.7.3
+* Retrofit: 2.9.0
+
+### WriteNow
+**Mobile - Android**
+* Android Studio: Giraffe | 2022.3.1
+* Gradle plugin: 8.1.1
+* JDK: jbr-17
+* Min SDK: 30
+* Retrofit: 2.9.0
+* Livedata: 2.6.2
+
 
 <br><br>
 ## 🧬 모델 아키텍처
