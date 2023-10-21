@@ -66,7 +66,7 @@ When using a small wearable device in everyday life, the small keyboard panel so
 <br><br>
 ## 💪 주요 기능
 ### [MakeDataset](https://github.com/CAP-JJANG/MakeDataset)
-### CSD-Model
+### [CSD-Model](https://github.com/CAP-JJANG/CSD-Model)
 **[ENG]**
 1. Set up the GPU usage environment in PyTorch.
 2. Configure transformations that define data preprocessing and normalization for input images.
