@@ -1,6 +1,3 @@
-![Group 288 (3)](https://github.com/CAP-JJANG/.github/assets/100428958/8c9d4198-5ef0-41ef-ad43-a7176ff895c9)![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=CAPJJANG&fontSize=90&fontAlignY=40&desc=2023%20공개%20SW%20개발자%20대회&descAlign=70)
-
-<br><br>
 <div align="center">
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCap-JJANG&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -75,11 +72,8 @@ When using a small wearable device in everyday life, the small keyboard panel so
 <div align="center">
   <img width="60%" alt="image" src="https://github.com/CAP-JJANG/.github/assets/92065911/7fcd5810-2541-4a52-a0aa-a758c61e8fc8">
 </div>
-<div align="center">
-  <img width="60%" alt="image" src="![Group 288 (3)](https://github.com/CAP-JJANG/.github/assets/100428958/42af2fe7-5f17-43a5-9a66-fda1fb249582)
-">
-</div>
 
+<br><br>
 ## 🔗 Service Architecture
 <div align="center">
   <img width="80%" alt="image" src="https://github.com/CAP-JJANG/.github/assets/92065911/1b391640-4450-4db0-a662-e403e101600a">
