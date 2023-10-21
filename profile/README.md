@@ -103,6 +103,16 @@ Details in [RightNow Repository](https://github.com/CAP-JJANG/RightNow)
 
 <br><br>
 ## 🦾 주요 기술
+### MakeDataset
+**Dataset**  
+* PyCharm IDE
+* Python: 3.9.13
+* Librosa: 0.10.1
+* Matplotlib: 3.7.2
+* Numpy: 1.25.2
+* Pillow: 10.0.1
+* Pydub: 0.25.1  
+  
 ### CSD-Model
 **Model - CNN**
 * PyCharm IDE
