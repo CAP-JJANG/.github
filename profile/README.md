@@ -98,14 +98,13 @@ Details in [CSD-Server Repository](https://github.com/CAP-JJANG/CSD-Server)
 
 <br>
 
-### ✔️ WriteNow
-Details in [WriteNow Repository](https://github.com/CAP-JJANG/WriteNow)  
+### ✔️ RightNow
+Details in [RightNow Repository](https://github.com/CAP-JJANG/RightNow) 
 
 <br>
 
-### ✔️ RightNow
-Details in [RightNow Repository](https://github.com/CAP-JJANG/RightNow)  
-
+### ✔️ WriteNow
+Details in [WriteNow Repository](https://github.com/CAP-JJANG/WriteNow)  
 
 <br><br>
 ## 🦾 주요 기술
@@ -165,8 +164,10 @@ Details in [RightNow Repository](https://github.com/CAP-JJANG/RightNow)
 * Gradle plugin: 8.1.1
 * JDK: jbr-17
 * Min SDK: 30
+* Target SDK: 33
 * Retrofit: 2.9.0
 * Livedata: 2.6.2
+* Eventbus: 3.3.1
 
 
 <br><br>
