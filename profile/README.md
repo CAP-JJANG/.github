@@ -184,11 +184,13 @@ Details in [WriteNow Repository](https://github.com/CAP-JJANG/WriteNow)
 
 <br><br>
 ## 👀 실행 화면
-* **Watch** :watch:
-  <img width="100%" alt="image" src="https://github.com/Capjjang23/.github/assets/92065911/08fb70df-859d-4dca-ad84-6ca1ef4a6520">
-  <br>
 * **Phone** :iphone:
-  <img width="100%" alt="image" src="https://github.com/Capjjang23/.github/assets/92065911/3acf80b7-fa8d-4b8d-aadf-1066ba7d8a7f">
+  <img width="100%" alt="image" src="https://github.com/Capjjang23/.github/assets/92065911/3acf80b7-fa8d-4b8d-aadf-1066ba7d8a7f">  
+  [Demo video](https://www.youtube.com/watch?v=_u7mkC3qIwM&t=1s)
+  <br>
+* **Watch** :watch:
+  <img width="100%" alt="image" src="https://github.com/CAP-JJANG/WriteNow/assets/92065911/e32f3f42-2cd6-4da4-8b82-fbf71987a0c1">  
+  [Demo video](https://www.youtube.com/watch?v=6eXJI5cCcZU)
 
 <br><br>
 ## 🤝 커밋 룰
