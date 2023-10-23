@@ -227,8 +227,8 @@ Details in [WriteNow Repository](https://github.com/CAP-JJANG/WriteNow)
 
 <br><br>
 ## 🤖 라이센스
-* MakeDataset : Apache-2.0 license
-* CSD-Model : Apache-2.0 license
-* CSD-Server : Apache-2.0 license
-* RightNow : Apache-2.0 license
-* WriteNow : Apache-2.0 license
+* MakeDataset : [Apache-2.0 license](https://github.com/CAP-JJANG/MakeDataset/blob/main/LICENSE)
+* CSD-Model : [Apache-2.0 license](https://github.com/CAP-JJANG/CSD-Model/blob/main/LICENSE)
+* CSD-Server : [Apache-2.0 license](https://github.com/CAP-JJANG/CSD-Server/blob/main/LICENSE)
+* RightNow : [Apache-2.0 license](https://github.com/CAP-JJANG/RightNow/blob/main/LICENSE)
+* WriteNow : [Apache-2.0 license](https://github.com/CAP-JJANG/WriteNow/blob/main/LICENSE)
